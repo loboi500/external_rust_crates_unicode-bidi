@@ -1,19 +1,3 @@
-name: "unicode-bidi"
-description: "Implementation of the Unicode Bidirectional Algorithm"
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/unicode-bidi"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/unicode-bidi/unicode-bidi-0.3.4.crate"
-  }
-  version: "0.3.4"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 12
-    day: 15
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:116d87fc9f242d5b1b02e70d7deb2a2b5aed40b77800f13caea88cf2668d2195
+size 410

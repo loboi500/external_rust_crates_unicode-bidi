@@ -1,12 +1,3 @@
-# unicode-bidi
-
-This crate implements the [Unicode Bidirectional Algorithm][tr9] for display
-of mixed right-to-left and left-to-right text.  It is written in safe Rust,
-compatible with the current stable release.
-
-[Documentation](http://doc.servo.org/unicode_bidi/)
-
-[![Travis-CI](https://travis-ci.org/servo/unicode-bidi.svg?branch=master)](https://travis-ci.org/servo/unicode-bidi)
-[![AppVeyor](https://img.shields.io/appveyor/ci/servo/unicode-bidi/master.svg)](https://ci.appveyor.com/project/servo/unicode-bidi)
-
-[tr9]: http://www.unicode.org/reports/tr9/
+version https://git-lfs.github.com/spec/v1
+oid sha256:bec1ce7b4dd0873f67e5b3f615453557403caaa385d01a53e2de0201e4b19fa2
+size 560
